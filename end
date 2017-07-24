@@ -78,8 +78,6 @@ Friends:"http://diskokosmiko.mx/chicho306/friends-t7-a-t10-22906" name:"Temporad
 Librarians:"http://diskokosmiko.mx/chicho306/the-librarians-t1-y-t2-22805" name:"Temporadas 1-2";
 Librarians:"http://diskokosmiko.mx/SeriesHD/the-librarians-dual-t3-45095" name:"Temporadas 3";
 
-Familyguy:"http://diskokosmiko.mx/chicho306/padre-de-familia-t13-y-t14-22793" name:"Temporadas 13-14";
-
 Grimm:"http://diskokosmiko.mx/chicho306/grimm-22552" name:"Temporadas 1-5";
 Grimm:"http://diskokosmiko.mx/SeriesHD/grimm-dual-t6-49480" name:"Temporadas 6";
 
@@ -112,6 +110,8 @@ Adad:"http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t6-34856" name:"Temporad
 Adad:"http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t7-34857" name:"Temporada 7";
 Adad:"http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t8-34858" name:"Temporada 8";
 Adad:"http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t9-34859" name:"Temporada 9(-14)";
+
+Familyguy:"http://diskokosmiko.mx/chicho306/padre-de-familia-t13-y-t14-22793" name:"Temporadas 13-14";
 
 Spark:"http://diskokosmiko.mx/chicho306/south-park-t13-34369" name:"Temporada 13";
 Spark:"http://diskokosmiko.mx/chicho306/south-park-t14-34370" name:"Temporada 14";
@@ -152,6 +152,7 @@ Peliculas:"http://diskokosmiko.mx/disney/disney-1189/" name:"Disney I";
 Peliculas:"http://diskokosmiko.mx/movies/disneydreamworks-animated-collection-1937-2009-1188/" name:"Disney II";
 
 Animes:"http://diskokosmiko.mx/shimplex/dragon-ball-super-1080p-japsub-72210" name:"Dragon Ball Super 1080p (jap/sub)";
+
 Dbz:"http://diskokosmiko.mx/SeriesHD/01-dragon-ball-z-saga-de-los-saiyajins-38255" name:"Temporada 1";
 Dbz:"http://diskokosmiko.mx/SeriesHD/02-dragon-ball-z-saga-freezer-38283" name:"Temporada 2";
 Dbz:"http://diskokosmiko.mx/SeriesHD/03-dragon-ball-z-saga-el-regreso-de-garlick-jr-38284" name:"Temporada 3";
@@ -159,6 +160,22 @@ Dbz:"http://diskokosmiko.mx/SeriesHD/04-dragon-ball-z-saga-de-los-androides-3828
 Dbz:"http://diskokosmiko.mx/SeriesHD/05-dragon-ball-z-saga-de-cell-38286" name:"Temporada 5";
 Dbz:"http://disDbzkokosmiko.mx/SeriesHD/06-dragon-ball-z-saga-del-gran-saiyaman-38287" name:"Temporada 6";
 Dbz:"http://diskokosmiko.mx/SeriesHD/07-dragon-ball-z-saga-de-buu-38288" name:"Temporada 7";
+
+Op:"http://diskokosmiko.mx/anime1/one-piece-1-100-23944" name:"Temporada 1";
+Op:"http://diskokosmiko.mx/anime1/one-piece-101-200-23934" name:"Temporada 2";
+Op:"http://diskokosmiko.mx/anime1/one-piece-201-300-23928" name:"Temporada 3";
+Op:"http://diskokosmiko.mx/anime1/one-piece-301-400-23873" name:"Temporada 4";
+Op:"http://diskokosmiko.mx/anime1/one-piece-401-500-23867" name:"Temporada 5";
+Op:"http://diskokosmiko.mx/anime1/one-piece-501-600-23864" name:"Temporada 6";
+Op:"http://diskokosmiko.mx/anime1/one-piece-601-700-23859" name:"Temporada 7";
+
+Inuyasha:"http://diskokosmiko.mx/anime1/inuyasha-t1-24226" name:"Temporada 1";
+Inuyasha:"http://diskokosmiko.mx/anime1/inuyasha-t2-24229" name:"Temporada 2";
+Inuyasha:"http://diskokosmiko.mx/anime1/inuyasha-t3-24233" name:"Temporada 3";
+Inuyasha:"http://diskokosmiko.mx/anime1/inuyasha-t4-24234" name:"Temporada 4";
+Inuyasha:"http://diskokosmiko.mx/anime1/inuyasha-t5-24236" name:"Temporada 5";
+Inuyasha:"http://diskokosmiko.mx/anime1/inuyasha-t6-24237" name:"Temporada 6";
+Inuyasha:"http://diskokosmiko.mx/anime1/inuyasha-t7-24239" name:"Temporada 7";
 
 Cartoons:"http://diskokosmiko.mx/INTERALIOS/la-familia-robinson-5178/" name:"The Swiss Family Robinson: Flone of the Mysterious Island (1981)";
 
@@ -175,13 +192,7 @@ EndedTV3:"http://diskokosmiko.mx/naredo/se-ha-escrito-un-crimen-completa-20531" 
 
 EndedTV4:"http://diskokosmiko.mx/naredo/colombo-serie-completa-20532" name:"Columbo";
 
-Op:"http://diskokosmiko.mx/anime1/one-piece-1-100-23944" name:"Temporada 1";
-Op:"http://diskokosmiko.mx/anime1/one-piece-101-200-23934" name:"Temporada 2";
-Op:"http://diskokosmiko.mx/anime1/one-piece-201-300-23928" name:"Temporada 3";
-Op:"http://diskokosmiko.mx/anime1/one-piece-301-400-23873" name:"Temporada 4";
-Op:"http://diskokosmiko.mx/anime1/one-piece-401-500-23867" name:"Temporada 5";
-Op:"http://diskokosmiko.mx/anime1/one-piece-501-600-23864" name:"Temporada 6";
-Op:"http://diskokosmiko.mx/anime1/one-piece-601-700-23859" name:"Temporada 7";
+
 
 
 
