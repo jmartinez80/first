@@ -162,18 +162,18 @@ Dbz:"http://diskokosmiko.mx/SeriesHD/07-dragon-ball-z-saga-de-buu-38288" name:"T
 
 Cartoons:"http://diskokosmiko.mx/INTERALIOS/la-familia-robinson-5178/" name:"The Swiss Family Robinson: Flone of the Mysterious Island (1981)";
 
-EndedTV:"http://diskokosmiko.mx/naredo/colombo-serie-completa-20532" name:"Columbo";
-
-EndedTV:"http://diskokosmiko.mx/naredo/se-ha-escrito-un-crimen-completa-20531" name:"Murder, She Wrote";
-
-EndedTV:"http://diskokosmiko.mx/titotv/mi-bella-genio-temporadas-12345-latino-2800" name:"I dream of Jeannie";
-
 EndedTV1:"http://diskokosmiko.mx/anime1/el-principe-del-rap-1-25555" name:"Temporada 1";
 EndedTV1:"http://diskokosmiko.mx/anime1/el-principe-del-rap-2-25556" name:"Temporada 2";
 EndedTV1:"http://diskokosmiko.mx/anime1/el-principe-del-rap-3-25557" name:"Temporada 3";
 EndedTV1:"http://diskokosmiko.mx/anime1/el-principe-del-rap-4-25559" name:"Temporada 4";
 EndedTV1:"http://diskokosmiko.mx/anime1/el-principe-del-rap-5-25560" name:"Temporada 5";
 EndedTV1:"http://diskokosmiko.mx/anime1/el-principe-del-rap-6-25562" name:"Temporada 6";
+
+EndedTV2:"http://diskokosmiko.mx/titotv/mi-bella-genio-temporadas-12345-latino-2800" name:"I dream of Jeannie";
+
+EndedTV3:"http://diskokosmiko.mx/naredo/se-ha-escrito-un-crimen-completa-20531" name:"Murder, She Wrote";
+
+EndedTV4:"http://diskokosmiko.mx/naredo/colombo-serie-completa-20532" name:"Columbo";
 
 Op:"http://diskokosmiko.mx/anime1/one-piece-1-100-23944" name:"Temporada 1";
 Op:"http://diskokosmiko.mx/anime1/one-piece-101-200-23934" name:"Temporada 2";
