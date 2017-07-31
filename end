@@ -298,12 +298,10 @@ EndedTV1:"http://diskokosmiko.mx/anime1/el-principe-del-rap-3-25557" name:"Tempo
 EndedTV1:"http://diskokosmiko.mx/anime1/el-principe-del-rap-4-25559" name:"Temporada 4";
 EndedTV1:"http://diskokosmiko.mx/anime1/el-principe-del-rap-5-25560" name:"Temporada 5";
 EndedTV1:"http://diskokosmiko.mx/anime1/el-principe-del-rap-6-25562" name:"Temporada 6";
-
 EndedTV2:"http://diskokosmiko.mx/titotv/mi-bella-genio-temporadas-12345-latino-2800" name:"Justice League Unlimited & I dream of Jeannie";
-
 EndedTV3:"http://diskokosmiko.mx/naredo/se-ha-escrito-un-crimen-completa-20531" name:"Murder, She Wrote";
-
 EndedTV4:"http://diskokosmiko.mx/naredo/colombo-serie-completa-20532" name:"Columbo";
+EndedTV5:"http://diskokosmiko.mx/trivianita/el-mentalista-completa-castellanoel-rockero-28741/" name:"The Mentalist";
 
 paginado:"1";
 paginado:"2";
