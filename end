@@ -262,14 +262,13 @@ Mitm:"http://diskokosmiko.mx/INTERALIOS/malcolm-in-the-middle-temp-5-latino-4965
 Mitm:"http://diskokosmiko.mx/INTERALIOS/malcolm-in-the-middle-temp-6-latino-4968" name:"Temporada 6";
 Mitm:"http://diskokosmiko.mx/INTERALIOS/malcolm-in-the-middle-temp-7-latino-4970" name:"Temporada 7";
 
-Peliculas:"http://diskokosmiko.mx/maria-santos-lopez/peliculas-32997" name:"Mas Pelis";
-Peliculas:"http://diskokosmiko.mx/jml/peliculas-25581" name:"Peliculas Pelis";
-
 PelisHD:"http://diskokosmiko.mx/SeriesHD/pelis-35575" name:"PelisHD-1";
 PelisHD:"http://diskokosmiko.mx/SeriesHD/pelis-2-45486" name:"PelisHD-2";
 PelisHD:"http://diskokosmiko.mx/SeriesHD/pelis-3-50456" name:"PelisHD-3";
 PelisHD:"http://diskokosmiko.mx/SeriesHD/pelis4-69949" name:"PelisHD-4";
 
+Peliculas:"http://diskokosmiko.mx/maria-santos-lopez/peliculas-32997" name:"Mas Pelis";
+Peliculas:"http://diskokosmiko.mx/jml/peliculas-25581" name:"Peliculas Pelis";
 Peliculas:"http://diskokosmiko.mx/millanmoviemx/especial-de-cantinflas-52173" name:"Cantinflas";
 Peliculas:"http://diskokosmiko.mx/marcos20/peliculas-de-caricaturas-en-espanol-latino-16449/" name:"Caricaturas";
 Peliculas:"http://diskokosmiko.mx/marcos20/peliculas-de-terror-en-espanol-latino-16623/" name:"Terror";
@@ -279,11 +278,9 @@ Peliculas:"http://diskokosmiko.mx/marcos20/peticiones-16957/" name:"Peticiones";
 Peliculas:"http://diskokosmiko.mx/marcos20/peliculas-de-comedia-en-espanol-latino-17449" name:"Comedia";
 Peliculas:"http://diskokosmiko.mx/marcos20/peliculas-de-drama-en-espanol-latino-18845" name:"Drama";
 Peliculas:"http://diskokosmiko.mx/marcos20/peliculas-de-navidad-en-espanol-latino-17084" name:"Navidad";
-
 Peliculas:"http://diskokosmiko.mx/disney/disney-1189/" name:"Disney I";
 Peliculas:"http://diskokosmiko.mx/movies/disneydreamworks-animated-collection-1937-2009-1188/" name:"Disney II";
 Peliculas:"http://diskokosmiko.mx/anime1/disney-movies-23803/" name:"Disney III";
-
 Peliculas:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-41154" name:"Peliculas Varias - 1";
 Peliculas:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-2-41773" name:"Peliculas Varias - 2";
 Peliculas:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-3-41991" name:"Peliculas Varias - 3";
@@ -291,8 +288,8 @@ Peliculas:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-4-42339" name:"Pelic
 Peliculas:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-5-42683" name:"Peliculas Varias - 5";
 Peliculas:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-6-44636" name:"Peliculas Varias - 6";
 Peliculas:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-7-45847" name:"Peliculas Varias - 7";
-
 Peliculas:"http://diskokosmiko.mx/arthurking/fileuploader-60675/" name:"Mas Mas";
+Peliculas:"http://diskokosmiko.mx/paeznet/2014-61790/" name:"2014"
 
 Animes:"http://diskokosmiko.mx/shimplex/dragon-ball-super-1080p-japsub-72210" name:"Dragon Ball Super 1080p (jap/sub)";
 
