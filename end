@@ -277,7 +277,6 @@ Peliculas:"http://diskokosmiko.mx/marcos20/peliculas-de-aventura-en-espanol-lati
 Peliculas:"http://diskokosmiko.mx/marcos20/peticiones-16957/" name:"Peticiones";
 Peliculas:"http://diskokosmiko.mx/marcos20/peliculas-de-comedia-en-espanol-latino-17449" name:"Comedia";
 Peliculas:"http://diskokosmiko.mx/marcos20/peliculas-de-drama-en-espanol-latino-18845" name:"Drama";
-Peliculas:"http://diskokosmiko.mx/marcos20/peliculas-de-navidad-en-espanol-latino-17084" name:"Navidad";
 Peliculas:"http://diskokosmiko.mx/disney/disney-1189/" name:"Disney I";
 Peliculas:"http://diskokosmiko.mx/movies/disneydreamworks-animated-collection-1937-2009-1188/" name:"Disney II";
 Peliculas:"http://diskokosmiko.mx/anime1/disney-movies-23803/" name:"Disney III";
@@ -292,6 +291,9 @@ Peliculas:"http://diskokosmiko.mx/arthurking/fileuploader-60675/" name:"Mas Mas"
 Peliculas:"http://diskokosmiko.mx/paeznet/2016-53399" name:"2016";
 Peliculas:"http://diskokosmiko.mx/paeznet/2015-23905" name:"2015";
 Peliculas:"http://diskokosmiko.mx/paeznet/2014-61790/" name:"2014";
+
+PeliculasNavidad:"http://diskokosmiko.mx/marcos20/peliculas-de-navidad-en-espanol-latino-17084" name:"Navidad I";
+PeliculasNavidad:"http://diskokosmiko.mx/frankiepentangelli/cine-club-navidad-41970" name:"Navidad II";
 
 Animes:"http://diskokosmiko.mx/shimplex/dragon-ball-super-1080p-japsub-72210" name:"Dragon Ball Super 1080p (jap/sub)";
 
