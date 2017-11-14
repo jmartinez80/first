@@ -113,6 +113,25 @@
 </item>
 
 <item>
+        <title>The Snowman (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1758810</imdb>
+                <title>The Snowman</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/sMSFkb6m9UOzbQXXcYXebP7UL4H.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/tAg6KUBANIVbYUpTHy5oKibhhw3.jpg</fanart>
+</item>
+
+
+<item>
         <title>Tulip Fever (2017)</title>
         <meta>
                 <content>movie</content>
