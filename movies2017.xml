@@ -96,6 +96,24 @@
         <fanart>https://image.tmdb.org/t/p/original/oGPQrolel4noBgS8bfJ5cWx1xHS.jpg</fanart>
 </item>
 
+<item>
+        <title>Wind River (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5362988</imdb>
+                <title>Wind River</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/mahM8SfXjAwACPy9S0W3eQcMqdx.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/zcbb4XArMpGSNUQUZTdemp2WOTs.jpg</fanart>
+</item>
+
 item>
         <title>Movie Name (2017)</title>
         <meta>
