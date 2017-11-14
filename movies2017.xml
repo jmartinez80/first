@@ -23,6 +23,24 @@
 </item>
 
 <item>
+        <title>Loving Vincent (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3262342</imdb>
+                <title>Loving Vincent</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/w2suV9PtoZY43R0Us8MXixYGeOu.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/adFgBkl35kdI0bSrWZO2xury1JB.jpg</fanart>
+</item>
+
+<item>
         <title>The Follower (2017)</title>
         <meta>
                 <content>movie</content>
