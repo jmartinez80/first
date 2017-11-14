@@ -27,7 +27,7 @@
 
 <dir>
 <name>Older Movies</name>
-<link></link>
+<link>https://raw.githubusercontent.com/jmartinez80/first/master/oldermovies.xml</link>
 <thumbnail></thumbnail>
 <summary>My Personal Faves Movies</summary>
 </dir>
