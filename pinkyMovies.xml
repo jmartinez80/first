@@ -1,0 +1,41 @@
+#########################################################################################
+<poster>Pinky</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#########################################################################################
+
+<item>
+        <title>Ip Man (2008)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1220719</imdb>
+                <title>Ip Man</title>
+                <year>2008</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/dOQA6S0s4PLwstI1IScoZPxoavC.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/rtuQa8Og2xPoZ5Us6JZ8MOmulR6.jpg</fanart>
+</item>
+
+<item>
+        <title>Blackhat (2015)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt2717822</imdb>
+                <title>Blackhat</title>
+                <year>2015</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/bNfrOUOXAPKiWbnQPOs3SVmWSB3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/ym7lU2GIvT6j5Cwd0fFX4OOQbkU.jpg</fanart>
+</item>
