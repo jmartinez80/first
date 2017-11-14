@@ -60,6 +60,25 @@
 </item>
 
 <item>
+        <title>Tulip Fever (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0491203</imdb>
+                <title>Movie Name</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/eBX2lJTqgg2wZIwCjbDVFIJpYyX.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/4cuMgrl1TVGjMaRQ3bKWTu61nem.jpg</fanart>
+</item>
+
+
+<item>
         <title>Victoria and Abdul (2017)</title>
         <meta>
                 <content>movie</content>
@@ -78,12 +97,12 @@
 </item>
 
 item>
-        <title>Movie Name (year)</title>
+        <title>Movie Name (2017)</title>
         <meta>
                 <content>movie</content>
                 <imdb>IMDB Number</imdb>
                 <title>Movie Name</title>
-                <year>year</year>
+                <year>2017</year>
         </meta>
         <link>
                 <sublink>search</sublink>
