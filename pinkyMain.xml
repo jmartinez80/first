@@ -11,7 +11,7 @@
 
 <dir>
 <name>TV</name>
-<link>http://houseofstark.ca/test/TV.xml</link>
+<link>https://raw.githubusercontent.com/jmartinez80/first/master/pinkyTVMain.xml</link>
 <thumbnail></thumbnail>
 <summary>My Personal Faves TV</summary>
 </dir>
