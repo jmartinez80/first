@@ -1,1 +1,17 @@
+#########################################################################################################
+<poste>Pinky</poster>
+#########################################################################################################
 
+<dir>
+<name>Movies</name>
+<link>http://houseofstark.ca/test/Blues-Faves.xml</link>
+<thumbnail></thumbnail>
+<summary>My Personal Faves Movies</summary>
+</dir>
+
+<dir>
+<name>TV</name>
+<link>http://houseofstark.ca/test/TV.xml</link>
+<thumbnail></thumbnail>
+<summary>My Personal Faves TV</summary>
+</dir>
