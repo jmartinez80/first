@@ -4,7 +4,7 @@
 
 <dir>
 <name>Movies</name>
-<link>http://houseofstark.ca/test/Blues-Faves.xml</link>
+<link>https://raw.githubusercontent.com/jmartinez80/first/master/pinkyMovies.xml</link>
 <thumbnail></thumbnail>
 <summary>My Personal Faves Movies</summary>
 </dir>
