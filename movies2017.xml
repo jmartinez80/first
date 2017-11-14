@@ -41,6 +41,24 @@
 </item>
 
 <item>
+        <title>Murder on the Orient Express (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3402236</imdb>
+                <title>Murder on the Orient Express</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/cfQaVvZ9rU7swKkGwiF2bVXjLDM.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/pPcg9z8M9AqxZeCHOwjU0Wk4iF8.jpg</fanart>
+</item>
+
+<item>
         <title>The Follower (2017)</title>
         <meta>
                 <content>movie</content>
