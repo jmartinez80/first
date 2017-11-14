@@ -4,6 +4,23 @@
 <fanart></fanart>
 #########################################################################################
 
+<item>
+        <title>A Bad Moms Christmas (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt6359956</imdb>
+                <title>A Bad Moms Christmas</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/fgBu2xCWYNVEiehtP2PaLqcZq6o.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/oR4u6ZlLx0nVUuq1OfYKuwVhtkg.jpg</fanart>
+</item>
 
 <item>
         <title>The Follower (2017)</title>
