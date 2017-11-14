@@ -29,7 +29,7 @@
                 <content>movie</content>
                 <imdb>tt1959563</imdb>
                 <title>The Hitman's Bodyguard</title>
-                <year>year</year>
+                <year>2017</year>
         </meta>
         <link>
                 <sublink>search</sublink>
@@ -57,6 +57,24 @@
         <thumbnail>https://image.tmdb.org/t/p/original/85xioeF08JX4iYRUNMlEPjJWrPl.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://image.tmdb.org/t/p/original/lTURBJ9fEaBu5pQEGsrJGXBVpsH.jpg</fanart>
+</item>
+
+<item>
+        <title>Victoria and Abdul (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5816682</imdb>
+                <title>Victoria and Abdul</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/oGPQrolel4noBgS8bfJ5cWx1xHS.jpg</fanart>
 </item>
 
 item>
