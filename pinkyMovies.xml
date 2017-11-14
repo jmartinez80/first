@@ -4,6 +4,34 @@
 <fanart></fanart>
 #########################################################################################
 
+<dir>
+<name>Movies 2017</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>My Personal Faves Movies</summary>
+</dir>
+
+<dir>
+<name>Movies 2016</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>My Personal Faves Movies</summary>
+</dir>
+
+<dir>
+<name>Movies 2015</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>My Personal Faves Movies</summary>
+</dir>
+
+<dir>
+<name>Older Movies</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>My Personal Faves Movies</summary>
+</dir>
+
 <item>
         <title>The Follower (2017)</title>
         <meta>
