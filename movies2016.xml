@@ -3,3 +3,21 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 #########################################################################################
+
+<item>
+        <title>100 Streets (2016)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt2990126</imdb>
+                <title>100 Streets</title>
+                <year>2016</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/zB4Jk2jCLDW9FAZ0eAPQHnkxTC1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/qulaFkn5A5HZ2KMRbMj7N8DsuzU.jpg</fanart>
+</item>
