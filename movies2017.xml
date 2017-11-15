@@ -77,6 +77,24 @@ item>
 </item>
 
 <item>
+        <title>7 Witches (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt4424722</imdb>
+                <title>7 Witches</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/oxJewYPAOhVMBbxCoyjB9gEZRGO.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/vPmFe4N5h0PidBd2IUrblRdSzjo.jpg</fanart>
+</item>
+
+<item>
         <title>A Bad Moms Christmas (2017)</title>
         <meta>
                 <content>movie</content>
