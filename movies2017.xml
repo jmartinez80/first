@@ -59,6 +59,24 @@ item>
 </item>
 
 <item>
+        <title>47 Meters Down (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt2932536</imdb>
+                <title>47 Meters Down</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/fahhCzKACy1STjUiPbMvkw46cTK.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/l3knoIslcAvkeSDGzEmyJ8VqUap.jpg</fanart>
+</item>
+
+<item>
         <title>A Bad Moms Christmas (2017)</title>
         <meta>
                 <content>movie</content>
