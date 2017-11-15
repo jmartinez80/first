@@ -113,6 +113,24 @@ item>
 </item>
 
 <item>
+        <title>A Dash of Love (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt6286216</imdb>
+                <title>A Dash of Love</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/joVZncQuitEzTfCWaOnHaHkWEM4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/uldEGoh5dp1zDth0ITAp2g1lCeR.jpg</fanart>
+</item>
+
+<item>
         <title>Loving Vincent (2017)</title>
         <meta>
                 <content>movie</content>
