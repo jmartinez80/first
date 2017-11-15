@@ -275,6 +275,24 @@ item>
 </item>
 
 <item>
+        <title>The Sandman (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt7369722</imdb>
+                <title>The Sandman</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/zwbGbVDDBXM8hFk1ttrVJE3Pgg1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/qBUOW7MqndCAw7YnVovkXxGvKlF.jpg</fanart>
+</item>
+
+<item>
         <title>The Snowman (2017)</title>
         <meta>
                 <content>movie</content>
