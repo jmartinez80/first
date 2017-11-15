@@ -185,6 +185,42 @@ item>
 </item>
 
 <item>
+        <title>Geostorm (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1981128</imdb>
+                <title>Geostorm</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/y5V4XCzvfq2LxiTVE9vdDADtlRt.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/lhTtnsPmEYUJB7nOaTKJzYoxJ7X.jpg</fanart>
+</item>
+
+<item>
+        <title>Jigsaw (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3348730</imdb>
+                <title>Jigsaw</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/ytKpFaLMpFWnuSXStz1GHrtTt6R.jpg</fanart>
+</item>
+
+<item>
         <title>Loving Vincent (2017)</title>
         <meta>
                 <content>movie</content>
@@ -310,6 +346,23 @@ item>
         <fanart>https://image.tmdb.org/t/p/original/tAg6KUBANIVbYUpTHy5oKibhhw3.jpg</fanart>
 </item>
 
+<item>
+        <title>Thor: Ragnarok (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3501632</imdb>
+                <title>Thor: Ragnarok</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/haAh8nOAfEPoAVfkW9aTWf6rypV.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/rGy955dh0H01Bhm9D8c9a6o72O3.jpg</fanart>
+</item>
 
 <item>
         <title>Tulip Fever (2017)</title>
