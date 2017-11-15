@@ -240,6 +240,24 @@ item>
         <fanart>https://image.tmdb.org/t/p/original/zcbb4XArMpGSNUQUZTdemp2WOTs.jpg</fanart>
 </item>
 
+<item>
+        <title>xXx: Return of Xander Cage (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1293847</imdb>
+                <title>xXx: Return of Xander Cage</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/oiSx538TWQSsHo3qCI7sLBvS9Ep.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/zv4acOMTPoplVLKo4FaoqAseSDx.jpg</fanart>
+</item>
+
 item>
         <title>Movie Name (2017)</title>
         <meta>
