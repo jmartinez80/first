@@ -5,26 +5,6 @@
 ###################################################################################################
 
 <dir>
-  <title>Trending Shows</title>
-  <trakt>https://api.trakt.tv/shows/trending</trakt>
-</dir>
-
-<dir>
-  <title>TMDB Popular</title>
-  <tmdb>tv/popular</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Top Rated</title>
-  <tmdb>tv/top_rated</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Animation Shows</title>
-  <tmdb>genre/shows/16</tmdb>
-</dir>
-
-<dir>
 <title>The Exorcist (2016)</title>
 <meta>
 <content>tvshow</content>
@@ -92,4 +72,24 @@
 <link>https://raw.githubusercontent.com/jmartinez80/first/master/youngsheldonSeasons.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iqSKVcacNxzw0H6wPe3rctpJPbz.jpg</fanart>
+</dir>
+
+<dir>
+  <title>Trending Shows</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>tv/popular</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Animation Shows</title>
+  <tmdb>genre/shows/16</tmdb>
 </dir>
