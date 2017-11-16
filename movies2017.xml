@@ -382,12 +382,12 @@ item>
         <fanart>https://image.tmdb.org/t/p/original/hVJULtmFPS5rkvxiMBfjRux8Rau.jpg</fanart>
 </item>
 
-item>
-        <title>Movie Name (2017)</title>
+<item>
+        <title>Attraction (2017)</title>
         <meta>
                 <content>movie</content>
-                <imdb>IMDB Number</imdb>
-                <title>Movie Name</title>
+                <imdb>tt4731148</imdb>
+                <title>Attraction</title>
                 <year>2017</year>
         </meta>
         <link>
@@ -395,9 +395,9 @@ item>
                 <sublink>searchsd</sublink>
         </link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>......</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/1GtFdzCJIQOulPF7RFF2KrhTU8Z.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart>......</fanart>
+        <fanart>https://image.tmdb.org/t/p/original/c7biqtoJoizlrDtTYu3389P9PEL.jpg</fanart>
 </item>
 
 item>
