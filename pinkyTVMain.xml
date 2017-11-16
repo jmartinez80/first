@@ -15,6 +15,16 @@
 </dir>
 
 <dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Animation Shows</title>
+  <tmdb>genre/shows/16</tmdb>
+</dir>
+
+<dir>
 <title>The Exorcist (2016)</title>
 <meta>
 <content>tvshow</content>
