@@ -46,7 +46,14 @@
 </dir>
 
 <dir>
-<title>Horror</title>
+<title>Christmas Movies</title>
+<tmdb>list/38678</tmdb>
+<summary>A selection of Christmas Films</summary>
+</dir>
+
+
+<dir>
+<title>Horror Movies</title>
 <tmdb>list/38675</tmdb>
 <summary>A selection of Horror Films</summary>
 </dir>
