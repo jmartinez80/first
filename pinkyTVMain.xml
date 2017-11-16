@@ -10,6 +10,11 @@
 </dir>
 
 <dir>
+  <title>TMDB Popular</title>
+  <tmdb>tv/popular</tmdb>
+</dir>
+
+<dir>
 <title>The Exorcist (2016)</title>
 <meta>
 <content>tvshow</content>
