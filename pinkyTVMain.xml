@@ -5,6 +5,11 @@
 ###################################################################################################
 
 <dir>
+  <title>Trending Shows</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+<dir>
 <title>The Exorcist (2016)</title>
 <meta>
 <content>tvshow</content>
