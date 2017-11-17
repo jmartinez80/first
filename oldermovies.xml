@@ -5,6 +5,24 @@
 #########################################################################################
 
 <item>
+        <title>Burn After Reading (2008)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0887883</imdb>
+                <title>Burn After Reading</title>
+                <year>2008</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/gkdU2J5OVn604Wng2WqNEX3TYij.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/m3kVkc5FCpVLo7gwHKbJy0yNSj3.jpg</fanart>
+</item>
+
+<item>
         <title>Ip Man (2008)</title>
         <meta>
                 <content>movie</content>
