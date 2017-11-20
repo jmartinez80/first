@@ -78,6 +78,12 @@
   <title>Trending Shows</title>
   <trakt>https://api.trakt.tv/shows/trending</trakt>
 </dir>
+/list/39065
+
+<dir>
+  <title>Trending Shows</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
 
 <dir>
   <title>Popular Shows</title>
