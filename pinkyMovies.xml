@@ -61,7 +61,13 @@
 <dir>
 <title>The Marvel Universe</title>
 <tmdb>list/1</tmdb>
-<summary>A selection of Horror Films</summary>
+<summary>A selection of Marvel Films</summary>
+</dir>
+
+<dir>
+<title>The DC Comics Universe</title>
+<tmdb>list/3</tmdb>
+<summary>A selection of DC Films</summary>
 </dir>
 
 <dir>
