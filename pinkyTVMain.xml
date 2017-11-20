@@ -75,10 +75,10 @@
 </dir>
 
 <dir>
-  <title>Trending Shows</title>
-  <trakt>https://api.trakt.tv/shows/trending</trakt>
+<title>Favorites Shows</title>
+<tmdb>list/39065</tmdb>
+<summary>A selection of my Favorites TV-Shows</summary>
 </dir>
-/list/39065
 
 <dir>
   <title>Trending Shows</title>
