@@ -275,6 +275,24 @@ item>
 </item>
 
 <item>
+        <title>American Made (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3532216</imdb>
+                <title>American Made</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/prK4pLV5DAn99KNjuwxtpANbNsK.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/Qkj9al2Q5zwA6yr8dr9F25Lvr2.jpg</fanart>
+</item>
+
+<item>
         <title>American Violence (2017)</title>
         <meta>
                 <content>movie</content>
@@ -470,6 +488,24 @@ item>
         <thumbnail>https://image.tmdb.org/t/p/original/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://image.tmdb.org/t/p/original/ytKpFaLMpFWnuSXStz1GHrtTt6R.jpg</fanart>
+</item>
+
+<item>
+        <title>Justice League (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0974015</imdb>
+                <title>Justice League</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/9WabpMUy0xYe4z0aifIJBlJAK3Q.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/fHNLkrIJuhiP7QPhBtySYuK7RlT.jpg</fanart>
 </item>
 
 <item>
