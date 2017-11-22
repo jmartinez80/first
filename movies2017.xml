@@ -275,6 +275,24 @@ item>
 </item>
 
 <item>
+        <title>American Assassin (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1961175</imdb>
+                <title>American Assassin</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/m5UX8xQ53cm1HErL9Oc5k7FD55X.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/puKZWmBIpuEMwGCn2hZkublG1rO.jpg</fanart>
+</item>
+
+<item>
         <title>American Made (2017)</title>
         <meta>
                 <content>movie</content>
