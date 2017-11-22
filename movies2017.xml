@@ -491,6 +491,24 @@ item>
 </item>
 
 <item>
+        <title>Hangman (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3011960</imdb>
+                <title>Hangman</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/qyWqax6jTxxmZBn2TFSsjpRR3cj.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/mgKO8vKaEuXdqMc0Ftm28Q2Hpzt.jpg</fanart>
+</item>
+
+<item>
         <title>Jigsaw (2017)</title>
         <meta>
                 <content>movie</content>
