@@ -17,6 +17,13 @@
 </dir>
 
 <dir>
+<name>Documentaries</name>
+<link>https://raw.githubusercontent.com/jmartinez80/first/master/Documentaries.xml</link>
+<thumbnail></thumbnail>
+<summary>Documentaries</summary>
+</dir> 
+
+<dir>
 <name>Test</name>
 <link>https://pastebin.com/raw/gMBQUUe5</link>
 <thumbnail></thumbnail>
