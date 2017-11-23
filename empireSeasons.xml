@@ -5,16 +5,61 @@
 ###################################################################################################
 
 <dir>
-<name>The Gifted Season 1</name>
+<name>Empire Season 1</name>
 <meta>
 <content>season</content>
-<imdb>tt4396630</imdb>
-<tvdb>328552</tvdb>
-<tvshowtitle>The Gifted</tvshowtitle>
-<year>2017</year>
+<imdb>tt3228904</imdb>
+<tvdb>281617</tvdb>
+<tvshowtitle>Empire</tvshowtitle>
+<year>2015</year>
 <season>1</season>
 </meta>
-<link>https://raw.githubusercontent.com/jmartinez80/first/master/thegiftedSeason1.xml</link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Empire Season 2</name>
+<meta>
+<content>season</content>
+<imdb>tt3228904</imdb>
+<tvdb>281617</tvdb>
+<tvshowtitle>Empire</tvshowtitle>
+<year>2015</year>
+<season>2</season>
+</meta>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Empire Season 3</name>
+<meta>
+<content>season</content>
+<imdb>tt3228904</imdb>
+<tvdb>281617</tvdb>
+<tvshowtitle>Empire</tvshowtitle>
+<year>2015</year>
+<season>3</season>
+</meta>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Empire Season 4</name>
+<meta>
+<content>season</content>
+<imdb>tt3228904</imdb>
+<tvdb>281617</tvdb>
+<tvshowtitle>Empire</tvshowtitle>
+<year>2015</year>
+<season>4</season>
+</meta>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
