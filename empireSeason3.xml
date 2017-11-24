@@ -1,0 +1,29 @@
+###################################################################################################
+<poster>Pinky</poster>
+<cache>10800</cache>
+<thumbnail></thumbnail>
+<fanart></fanart>
+###################################################################################################
+
+<item>
+        <title>Empire S02E01 - The Devils Are Here</title>
+        <meta>
+                <content>episode</content>
+                <imdb>tt3228904</imdb>
+				        <tvdb>281617</tvdb>
+				        <tvshowtitle>Empire</tvshowtitle>
+				        <year>2015</year>
+                <title>The Devils Are Here</title>
+                <premiered>2015-09-23</premiered>
+				        <season>2</season>
+				        <episode>1</episode>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
