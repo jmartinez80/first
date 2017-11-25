@@ -1,1 +1,29 @@
+###################################################################################################
+<poster>Pinky</poster>
+<cache>10800</cache>
+<thumbnail></thumbnail>
+<fanart></fanart>
+###################################################################################################
 
+<item>
+        <title>Kevin Can Wait S02E01 - ......</title>
+        <meta>
+                <content>episode</content>
+                <imdb>tt5462720</imdb>
+				        <tvdb>311944</tvdb>
+				        <tvshowtitle>Kevin Can Wait</tvshowtitle>
+				        <year>2016</year>
+                <title>......</title>
+                <premiered>......</premiered>
+				        <season>2</season>
+				        <episode>1</episode>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
