@@ -1,1 +1,35 @@
+###################################################################################################
+<poster>Pinky</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+###################################################################################################
 
+<dir>
+<name>The Shannara Chronicles Season 1</name>
+<meta>
+<content>season</content>
+<imdb>tt1051220</imdb>
+<tvdb>289096</tvdb>
+<tvshowtitle>The Shannara Chronicles</tvshowtitle>
+<year>2016</year>
+<season>1</season>
+</meta>
+<link>https://raw.githubusercontent.com/jmartinez80/first/master/kevincanwaitSeason1.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>The Shannara Chronicles Season 2</name>
+<meta>
+<content>season</content>
+<imdb>tt1051220</imdb>
+<tvdb>289096</tvdb>
+<tvshowtitle>The Shannara Chronicles</tvshowtitle>
+<year>2016</year>
+<season>2</season>
+</meta>
+<link>https://raw.githubusercontent.com/jmartinez80/first/master/kevincanwaitSeason2.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
