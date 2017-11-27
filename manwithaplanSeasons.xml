@@ -1,1 +1,35 @@
+###################################################################################################
+<poster>Pinky</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+###################################################################################################
 
+<dir>
+<name>Man with a Plan Season 1</name>
+<meta>
+<content>season</content>
+<imdb>tt5536400</imdb>
+<tvdb>311946</tvdb>
+<tvshowtitle>Man with a Plan</tvshowtitle>
+<year>2016</year>
+<season>1</season>
+</meta>
+<link>LINKTOSEASON1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>Man with a Plan Season 2</name>
+<meta>
+<content>season</content>
+<imdb>tt5536400</imdb>
+<tvdb>311946</tvdb>
+<tvshowtitle>Man with a Plan</tvshowtitle>
+<year>2016</year>
+<season>2</season>
+</meta>
+<link>LINKTOSEASON2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
