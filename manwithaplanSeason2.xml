@@ -1,1 +1,29 @@
+###################################################################################################
+<poster>Pinky</poster>
+<cache>10800</cache>
+<thumbnail></thumbnail>
+<fanart></fanart>
+###################################################################################################
 
+<item>
+        <title>Man with a Plan S02E.. - CHAPTERNAME</title>
+        <meta>
+                <content>episode</content>
+                <imdb>tt5536400</imdb>
+				        <tvdb>311946</tvdb>
+				        <tvshowtitle>Man with a Plan</tvshowtitle>
+				        <year>2016</year>
+                <title>CHAPTERNAME</title>
+                <premiered>CHAPTERAIREDDATE</premiered>
+				        <season>2</season>
+				        <episode>EPISODE</episode>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
