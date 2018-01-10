@@ -234,3 +234,72 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </item>
+
+<item>
+        <title>The Good Doctor S01E11 - Islands: Part One</title>
+        <meta>
+                <content>episode</content>
+                <imdb>tt6470478</imdb>
+				<tvdb>328634</tvdb>
+				<tvshowtitle>The Good Doctor</tvshowtitle>
+				<year>2017</year>
+                <title>Islands: Part One</title>
+                <premiered>2018-01-08</premiered>
+				<season>1</season>
+				<episode>11</episode>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>The Good Doctor S01E12 - Islands: Part Two</title>
+        <meta>
+                <content>episode</content>
+                <imdb>tt6470478</imdb>
+				<tvdb>328634</tvdb>
+				<tvshowtitle>The Good Doctor</tvshowtitle>
+				<year>2017</year>
+                <title>Islands: Part Two</title>
+                <premiered>2018-01-15</premiered>
+				<season>1</season>
+				<episode>12</episode>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>The Good Doctor S01E13 - Seven Reasons</title>
+        <meta>
+                <content>episode</content>
+                <imdb>tt6470478</imdb>
+				<tvdb>328634</tvdb>
+				<tvshowtitle>The Good Doctor</tvshowtitle>
+				<year>2017</year>
+                <title>Seven Reasons</title>
+                <premiered>2018-01-22</premiered>
+				<season>1</season>
+				<episode>13</episode>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
